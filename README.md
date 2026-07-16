@@ -1,50 +1,34 @@
-### 👋 Hi, I’m Saurabh
+# Hi, I'm Saurabh 👋
 
-I am a **Product leader** with 15+ years of building and scaling digital products across EdTech, AI-powered learning, and global marketplaces. Currently VP of Product Management at Hardskills, previously Principal PM at Babbel and Sr PM at Delivery Hero, Noon, Byju’s, and Cuemath.  
+I spent 15 years shipping products for other people. Now I'm building my own — and writing the production code, not just the specs. Some solo, some with cofounders and friends I trust.
 
-I enjoy working at the intersection of user research, data, and engineering — turning ambiguous problems into successful products that move activation, retention, and revenue.
+**Problem-first, always.** In a world full of solutions, the real problem usually stays unsolved. So I start there.
 
----
+## 🛠️ What I'm building
 
-### 🧠 What I work on
+**[Skewton](https://skewton.com)** — Non-custodial algo-trading for Indian investors. Connect your own broker, automate your strategy, keep control of your money — Skewton never holds it. Building it with my cofounders. *(SEBI RIA registration in progress.)*
 
-- AI in learning and assessment  
-  - Built AI-powered grading tools and soft-skills simulations that improved accuracy and reduced costs at scale.  
-  - Worked on ML-driven personalization for millions of learners to improve activation and long-term-term retention.  
+**[OwnOrder](https://ownorder.in)** — Helping Indian restaurants stop renting their customers from Zomato & Swiggy. A branded ordering + loyalty + WhatsApp app that hands the customer relationship, data, and margin back to the restaurant. Live in 2 weeks, not 6 months.
 
-- Growth, engagement, and monetization  
-  - Led cross-functional squads focused on homepage, recommendations, and lifecycle to drive engagement and subscription growth.  
-  - Shipped monetization features for teachers and creators in large EdTech ecosystems.  
+**WoofenDale** — A premium, organic dog-toy brand for India, built around toy *series* with characters and stories, not one-off squeakers. A team effort with my cofounders.
 
-- Platforms and internal tools  
-  - Helped build platforms (ML, Help Center, teaching tools) used by multiple brands and teams globally.  
-  - Enjoy designing interfaces, APIs, and workflows that make other teams more effective.
+**Birdlet** — A calm, beginner-first app that teaches anyone to identify birds from zero. No jargon, no login, works offline.
 
----
+**[myFPL Mini League](https://myfplminileague.com)** — A side project for football fans: run your Fantasy Premier League mini-leagues without the hassle.
 
-### 🛠️ How I use this GitHub
+## ⚙️ How I build
 
-This GitHub is a place for:
+A product leader who writes production code — not throwaway prototypes, but high-quality software real users depend on. I build fast with AI in the terminal; [`claude-skills`](https://github.com/sarinsaurabh/claude-skills) is my open collection of the Claude Code workflows I use to do it. Craft matters to me as much as speed.
 
-- Public product experiments (AI prototypes, internal tools, and side projects).  
-- Documenting product thinking in the open (decision docs, experiment designs, and PRDs).  
-- Small utilities and playgrounds around a bunch of topics, including football analytics, learning science, and AI.
+## 🧭 Mentoring
 
-> Note: Most production work lives in company repos, so what you see here is a curated subset of personal and illustrative projects.
+I mentor product managers and early-stage entrepreneurs — on [ADPList](https://adplist.org/mentors/saurabh-sarin) and as a mentor at Mesa School of Business.
 
----
+## 📇 Background
 
-### 📌 Selected areas of interest
+15 years in product — built and scaled at Byju's, Cuemath, Delivery Hero, Noon, and Babbel, across EdTech, fintech, and marketplaces. Currently also working part-time with Hardskills.
 
-- Product strategy for AI-native products  
-- Experimentation & measurement (A/B testing, activation/retention funnels)  
-- Learning science, assessments, and content recommendation  
-- Data platforms and APIs that enable product teams
+## 🔗 Elsewhere
 
----
-
-### 🔗 Elsewhere
-
-- Portfolio & writing: [sarinsaurabh.in](https://sarinsaurabh.in/)  
-- LinkedIn: [in/sarinsaurabh](https://www.linkedin.com/in/sarinsaurabh/)  
-- ADPList mentoring and product course details are also linked from my website.
+- 🌐 [sarinsaurabh.in](https://sarinsaurabh.in) — my public workspace: problem notes, case studies, and what I'm working through now
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarinsaurabh)
