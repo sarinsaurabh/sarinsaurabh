@@ -1,4 +1,4 @@
-# Hi, I'm Saurabh 👋
+# Hi, I'm Sarin 👋
 
 I spent 15 years shipping products for other people. Now I'm building my own — and writing the production code, not just the specs. Some solo, some with cofounders and friends I trust.
 
