@@ -10,7 +10,7 @@ I spent 15 years shipping products for other people. Now I'm building my own —
 
 **[OwnOrder](https://ownorder.in)** — Helping Indian restaurants stop renting their customers from Zomato & Swiggy. A branded ordering + loyalty + WhatsApp app that hands the customer relationship, data, and margin back to the restaurant. Live in 2 weeks, not 6 months.
 
-**WoofenDale** — A premium, organic dog-toy brand for India, built around toy *series* with characters and stories, not one-off squeakers. A team effort with my cofounders.
+**Woofendale** — A premium, dog-toy brand for India, built around toy *series* with characters and stories, not one-off squeakers. A team effort with my cofounders.
 
 **Birdlet** — A calm, beginner-first app that teaches anyone to identify birds from zero. No jargon, no login, works offline.
 
